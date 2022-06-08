@@ -5,6 +5,6 @@ build/
 
 # Log files
 *.log
-
+.DS_Storage
 # Environment file
 .env
